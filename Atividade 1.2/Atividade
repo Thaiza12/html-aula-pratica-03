@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<htmL>
+    <head>
+
+        <meta charset="utf-8">
+        <title>Nova página web</title>
+
+    </head>
+    <body>
+
+    <h1>
+        Manaus
+    </h1>
+    <ol>
+        <li> Leste x 592 543 Habitantes</li>
+        <li> Norte x 592 325 Habitantes/</li>
+        <li> Sul x 338 074 Habitantes</li>
+        <li> Oeste x 299 782 Habitantes</li>
+        <li> Centro Sul x 180 577 Habitantes</li>
+    </ol>
+    <h1>
+        Bahia 
+    </h1>
+    <ol>
+        <li> Salvador x 2 886 698 Habitantes</li>
+        <li> Feira de Santana x 619 609 Habitantes</li>
+        <li> Vitória da conquista x 341 128 Habitantes</li>
+        <li> Camaçari x 304 302 Habitantes</li>
+        <li> Juazeirox 218 162 Habitantes</li>
+    </ol>
+    <h1>
+        São Paulo
+    </h1>
+    <ol>
+        <li>São Paulo x 21 571 281 Habitantes</li>
+        <li> Campinas x 3 224 443 Habitantes</li>
+        <li> S J Campos x 2 528 345 Habitantes</li>
+        <li> Sorocaba x 2 120 095 Habitantes</li>
+        <li> Santos x 1 848 654 Habitantes</li>
+    </ol>
+    <h1>
+        Belo Horizonte
+    </h1>
+    <ol>
+        <li> Barreiro x 282 552 Habitantes</li>
+        <li> Centro Sul x 272 285 Habitantes</li>
+        <li> Leste x 249 273 Habitantes</li>
+        <li> Nordeste x 291 110 Habitantes</li>
+        <li> Noroeste x 331 362	Habitantes</li>
+    </ol>
+
+    </body>
+    
+    <footer>
+        Criado por mim - Thaiza Alves 2021 - Aluno Rede cidadã
+    </footer>
+
+</htmL>

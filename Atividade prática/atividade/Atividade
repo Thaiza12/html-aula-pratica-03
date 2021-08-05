@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<htmL>
+    <head>
+        <meta charset="utf-8">
+        <title>Nova página web</title>
+
+    </head>
+    <body> 
+        <h1> 
+            Filmes em cartaz
+        </h1>
+        <P>
+            Esquadrão suicida
+        </P>
+        <p>
+            Jungle Cruise
+        </p>
+        <p>
+            Um lugar silencioso
+        </p>
+
+    </body>
+</htmL>

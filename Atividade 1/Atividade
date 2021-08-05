@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<htmL>
+    <head>
+        <meta charset="utf-8">
+        <title>Nova página web</title>
+
+    </head>
+    <body> 
+        <center>
+            <h1> Café Starbuzz </h1>
+            </center>
+            <h2>
+                Mistura da Casa, R$ 1,49
+             </h2>
+        <p>
+             Uma mistura suave e delicada de cafés do México,
+             Bolívia e Guatemala
+        </p>
+             <h2>
+             Café árabico com leite, R$ 2,35
+            </h2>
+        <p> 
+            Expresso, leite fervido e xarope de chocolate 
+        </p>
+             <h2>
+             Cappucino, R$1,89
+             </h2>
+       <p>
+             Uma mistra de expresso, leite fervido e espuma
+       </p>
+            <h2>
+             Chá chai, R$ 1,85
+            </h2>
+       <p>
+             Uma bebida condimentada com chá preto, especiarias, leite e mel
+       </p>
+
+       <center>
+       <img src=" https://www.starbucks.com.br/public/img/home/sb-dia-do-fotografo.jpg"
+       height="300" width="400">
+       </center>
+
+    </body>
+
+    <center>
+    <footer> 
+        Criado por mim - Thaiza Alves 2021- Aluno rede cidadã
+    </footer> </center>
+</htmL>
